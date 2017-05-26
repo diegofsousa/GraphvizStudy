@@ -1,0 +1,3 @@
+bugs {
+	__Estão sendo mostradas as sprints de todos os projetos da plataforma.
+}
