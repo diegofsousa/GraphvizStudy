@@ -1,0 +1,12 @@
+digraph graphname{
+	rankdir=LR;
+    a -> b;
+    a -> d;
+    d -> c;
+    b -> c;
+    b -> e;
+    e -> b;
+    a -> c;
+    c -> e;
+
+}
